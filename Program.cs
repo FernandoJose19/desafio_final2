@@ -17,7 +17,7 @@ class Program
         }
         else
         {
-            // Senão: Console.WriteLine("Inventário Vazio!");
+            // Senão: Console.WriteLine("Inventário Vazio!")
             Console.WriteLine("Inventário Vazio!");
         }
 
