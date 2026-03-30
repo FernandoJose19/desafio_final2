@@ -12,7 +12,7 @@ class Program
         // Verifique se pocoes.Length > 0
         if (pocoes.Length > 0)
         {
-            // Se sim: Console.WriteLine("Poção consumida!");
+            // Se sim: Console.WriteLine("Poção consumida!")
             Console.WriteLine("Poção consumida !");
         }
         else
