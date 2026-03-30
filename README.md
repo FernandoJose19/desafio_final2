@@ -13,7 +13,8 @@ Estruturas de decisão (`if/else`, `switch`) são como as bifurcações em uma *
 
 ### 📜 Missão 1.1: A Porta do Inventário (10 XP)
 
-**Descrição:** O jogador tem um Array que representa seu inventário de poções. Antes de usar uma poção de cura, ele precisa escrever uma condição que verifique se o tamanho do array é maior que zero. Se sim, ele "bebe a poção"; caso contrário, o sistema emite um alerta de "Inventário Vazio".
+**Descrição:** O jogador tem um Array que representa seu inventário de poções. Antes de usar uma poção de cura, ele precisa escrever uma condição 
+que verifique se o tamanho do array é maior que zero. Se sim, ele "bebe a poção"; caso contrário, o sistema emite um alerta de "Inventário Vazio".
 
 **Código Inicial:**
 ```csharp
@@ -38,7 +39,8 @@ Poção consumida!
 
 ### 📜 Missão 1.2: O Guardião da Fila (20 XP)
 
-**Descrição:** Existe uma Fila (Queue) de prioridade para entrar na masmorra. O jogador deve criar uma estrutura de decisão que analise o nível do próximo jogador na fila. Se o nível for maior ou igual a 50, ele entra pela porta VIP; se for menor, vai para a porta de treinamento.
+**Descrição:** Existe uma Fila (Queue) de prioridade para entrar na masmorra. O jogador deve criar uma estrutura de decisão que analise o nível 
+do próximo jogador na fila. Se o nível for maior ou igual a 50, ele entra pela porta VIP; se for menor, vai para a porta de treinamento.
 
 **Código Inicial:**
 ```csharp
@@ -62,7 +64,8 @@ Porta VIP liberada!
 
 ### 📜 Missão 1.3: Bifurcação na Árvore (30 XP)
 
-**Descrição:** O aventureiro encontra uma Árvore Binária de busca. O baú do tesouro tem o valor 85. O jogador está no nó atual que vale 50. Ele deve escrever a regra de decisão: se o valor procurado é maior que o nó atual, vá para a direita; se for menor, vá para a esquerda.
+**Descrição:** O aventureiro encontra uma Árvore Binária de busca. O baú do tesouro tem o valor 85. O jogador está no nó atual que vale 50. 
+Ele deve escrever a regra de decisão: se o valor procurado é maior que o nó atual, vá para a direita; se for menor, vá para a esquerda.
 
 **Código Inicial:**
 ```csharp
